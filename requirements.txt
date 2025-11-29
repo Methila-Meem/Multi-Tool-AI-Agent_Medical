@@ -1,0 +1,17 @@
+gradio
+langchain
+langchain_community
+langchain_core
+pandas
+pyprojroot
+python-dotenv
+PyYAML
+SQLAlchemy
+openai
+chromadb
+langchain_openai
+langchain-groq
+groq
+requests
+tqdm
+tabulate
